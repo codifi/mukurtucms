@@ -1,4 +1,5 @@
 ## Mukurtu 2.03
+- *Minor patches were committed to this fork to make the software suitable for distribution to Center for Digital Archaeology clients. These patches, which include a Drupal core update to 7.43, will be released in Mukurtu 2.04.*
 - Updated Drupal core to 7.41
 - Various contrib module security updates,
 - Map view of Digital Heritage items. Browse Digital Heritage now offers a Map view along with the existing List and Grid views. All Digital Heritage items that have a Location set, and also match the current search and filter criteria (and current user view permissions), display on the map as pins. Clicking on a pin reveals a popup which can be clicked through to the item.
